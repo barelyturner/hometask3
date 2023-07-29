@@ -1,4 +1,4 @@
-list1 = []
+list1 = [1, "w", 3, 4, 5, [5, 5, 5]]
 if list1 == []:
     print(list1)
 else:
